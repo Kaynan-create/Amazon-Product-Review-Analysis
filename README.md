@@ -8,4 +8,6 @@ The dataset was scrapped from Amazon project pages and it contains:
 
 Each row represents a unique product with aggregated reviewer data.
 ## Tools & Technologies
-In this project, Microsoft Excel was primarily used to clean the data, create pivot tables, create calculated columns, create interactive dashboard and visualization, get key insights and a
+In this project, Microsoft Excel was primarily used to clean the data, create pivot tables, create calculated columns, create interactive dashboard and visualization, generate key insights and compile summary reports.
+## Key Features
+
