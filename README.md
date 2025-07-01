@@ -1,2 +1,11 @@
 # DSA-Amazon-Case-Study-Project
-This project focuses on analyzing Amazon Product Sales data primarily using Microsoft Excel. The dataset contains information scraped from Amazon product pages, including product details (name, category, price, discount, ratings) and customer engagement metrics (reviews, review titles, and review content).
+## Project Overview
+This project focuses on analyzing Amazon Product Sales data to uncover key insights into pricing, discounts, customer ratings and review trends. This project demonstrates skills in Microsoft Excel for data cleaning, transformation, analysis and visualization. 
+## Dataset Used
+The dataset was scrapped from Amazon project pages and it contains:
+- **Product Details**: Name, Category, Price, Discount and ratings
+- **Customer Engagement**: Rating Count, Review Title and Review content
+
+Each row represents a unique product with aggregated reviewer data.
+## Tools & Technologies
+In this project, Microsoft Excel was primarily used to clean the data, create pivot tables, create calculated columns, create interactive dashboard and visualization, get key insights and a
