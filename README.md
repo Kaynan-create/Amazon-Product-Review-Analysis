@@ -14,7 +14,7 @@ Each row represents a unique product with aggregated reviewer data.
   - Calculated columns (e.g., discounted price, total potential revenue, combined score(ratings and ratings count combined))
   - Charts and graphs for visual analysis (bar charts, pie charts, line graphs)
 ## Key Features
-Cleaned and prepared raw Amazon product data for analysis
+- Cleaned and prepared raw Amazon product data for analysis
 - Created pivot tables to summarize:
   - Average discount per category
   - Total number of products per category
