@@ -1,6 +1,6 @@
 # DSA-Amazon-Case-Study-Project
 ## Project Overview
-This project focuses on analyzing Amazon Product Sales data to uncover key insights into pricing, discounts, customer ratings and review trends. It demonstrates skills in Microsoft Excel for data cleaning, transformation, analysis and visualization. 
+This case study focuses on analyzing Amazon product and customer review data for RetailTech Insights, an e-commerce analytics company that supports Amazon sellers. The aim of the analysis is to uncover key insights about product performance, customer sentiment, and review trends that can inform product improvements, marketing strategies, and customer engagement initiatives. The entire analysis was conducted using **Microsoft Excel**, leveraging pivot tables, calculated fields, and charts to generate meaningful insights.
 ## Dataset Used
 The dataset was scrapped from Amazon project pages and it contains:
 - **Product Details**: Name, Category, Price, Discount and ratings
