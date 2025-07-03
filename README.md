@@ -37,7 +37,7 @@ Each row represents a unique product with aggregated reviewer data.
 ## Key Insights
 - Electronics leads the total potential revenue massively with aproximately $98 billion potential revenue.
   - Electronics is the most profitable focus area. Marketers and product teams should prioritize this category for campaigns and stock optimization.
-- Electronics is not only the top revenue category but also attracts the most customer engagementof approximately 15.78 million reviews.
+- Electronics is not only the top revenue category but also attracts the most customer engagement of approximately 15.78 million reviews.
 - Tech accessories drive consistent high volume engagement as the most reviewed product is in the Electronics Category.
 - Accessories and small electronics dominate top-rated product lists, showing where customer satisfaction is highest.
 - 751 products (over 50% of the data set) had discounts of 50% or more. This indicates aggressive discounting. Sellers should implement a balance so as to maintain product value perception.
@@ -46,9 +46,13 @@ Each row represents a unique product with aggregated reviewer data.
 
 ## How This Analysis Supports Decision Making
 - Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
-  ![Sum of Total Potential Revenue](Amazonvisuals/Sum_of_Total_Potential_Revenue.png)
+  ![Sum of Total Potential Revenue](Sum_of_Total_Potential_Revenue.png)
 - Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
-  ![Average Discount per Category](Amazonvisuals/Average_Discount_per_Category.png)
+  ![Average Discount per Category](Average_Discount_per_Category.png)
 - Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
-  ![Products With Highest Average Ratings](Amazonvisuals/Products_With_Highest_Average_Ratings.png)
+  ![Products With Highest Average Ratings](Products_With_Highest_Average_Ratings.png)
+- Average Ratings Across Discount Levels: reveal that higher discounts are linked to slightly lower ratings, helping sellers understand how discounting affects perceived quality.
+- Prodycts With Less Than 1000 Reviews: This highlight items that may need greater promotional support or visibility to build trust and reputation.
+- Total Reviews Per Category: This shows where customer engagement is strongest, helping teams prioritize marketing and customer service efforts.
   
+**Together, these insights provide Amazon sellers and marketing teams with data-driven guidance to enhance product performance, optimize pricing, improve customer satisfaction, and drive engagement.**
