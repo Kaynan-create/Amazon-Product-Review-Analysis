@@ -38,8 +38,17 @@ Each row represents a unique product with aggregated reviewer data.
 - Electronics leads the total potential revenue massively with aproximately $98 billion potential revenue.
   - Electronics is the most profitable focus area. Marketers and product teams should prioritize this category for campaigns and stock optimization.
 - Electronics is not only the top revenue category but also attracts the most customer engagementof approximately 15.78 million reviews.
-- Tech accessories drive consistent high volume engagement as the most reviewed product is in tthe Electronics Category.
+- Tech accessories drive consistent high volume engagement as the most reviewed product is in the Electronics Category.
 - Accessories and small electronics dominate top-rated product lists, showing where customer satisfaction is highest.
 - 751 products (over 50% of the data set) had discounts of 50% or more. This indicates aggressive discounting. Sellers should implement a balance so as to maintain product value perception.
+ - Products with 50% or more discount had lower average ratings. The higher discounts may be linked to lower perceived product quality.
 - 328 products have lower than 1000 reviews. This indicates that many products have low visibility which in turn presents opportunities for marketing and review generation
-- 
+
+## How This Analysis Supports Decision Making
+- Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
+  ![Sum of Total Potential Revenue](Amazon visuals/Sum of Total Potential Revenue.png)
+- Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
+  ![Average Discount per Category](Amazon visuals/Average Discount per Category.png)
+- Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
+  ![Products With Highest Average Ratings](Amazon visuals/Products With Highest Average Ratings.png)
+  
