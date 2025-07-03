@@ -1,21 +1,21 @@
-# DSA-Amazon-Case-Study-Project
+# 📦 DSA-Amazon-Case-Study-Project
 ## Project Overview
 This case study analyzes Amazon product and customer review data for **RetailTech Insights**, a company providing e-commerce analytics solutions for sellers on platforms like Amazon. The aim of the analysis is to uncover key insights about product performance, customer sentiment, and review trends that can inform product improvements, marketing strategies, and customer engagement initiatives. The entire analysis was conducted using **Microsoft Excel**, leveraging pivot tables, calculated fields, and charts to generate meaningful insights.
 ## 📝 Company Overview
 **RetailTech Insights** is an e-commerce analytics company that supports Amazon sellers by providing actionable data insights. The team’s goal is to help clients optimize product performance, pricing strategies, and customer engagement through data analysis.
-## Dataset Used
+## 📂 Dataset Used
 The dataset was scrapped from Amazon project pages and it contains:
 - **Product Details**: Name, Category, Price, Discount and ratings
 - **Customer Engagement**: Rating Count, Review Title and Review content
 
 Each row represents a unique product with aggregated reviewer data.
-## Tools & Technologies
+## 🛠 Tools & Technologies
  **Microsoft Excel**
   - Data cleaning (handling missing values, correcting formats)
   - Use of pivot tables for aggregation
   - Calculated columns (e.g., discounted price, total potential revenue, combined score(ratings and ratings count combined))
   - Charts and graphs for visual analysis (bar charts, column charts)
-## Key Features
+## 📌 Key Features
 - Cleaned and prepared raw Amazon product data for analysis
 - Created pivot tables to summarize:
   - Average discount per category
@@ -34,7 +34,7 @@ Each row represents a unique product with aggregated reviewer data.
   - Top 5 products in terms of ratings and number of reviews combined
 - Designed clear, easy-to-read charts to display insights
 - Used calculated columns to derive additional metrics (e.g., discounted price)
-## Key Insights
+## 🎯 Key Insights
 - Electronics leads the total potential revenue massively with aproximately $98 billion potential revenue.
   - Electronics is the most profitable focus area. Marketers and product teams should prioritize this category for campaigns and stock optimization.
 - Electronics is not only the top revenue category but also attracts the most customer engagement of approximately 15.78 million reviews.
@@ -44,15 +44,19 @@ Each row represents a unique product with aggregated reviewer data.
  - Products with 50% or more discount had lower average ratings. The higher discounts may be linked to lower perceived product quality.
 - 328 products have lower than 1000 reviews. This indicates that many products have low visibility which in turn presents opportunities for marketing and review generation
 
-## How This Analysis Supports Decision Making
+## 📈 How This Analysis Supports Decision Making
 - Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
-  ![Revenue_Chart/Sum_of_Total_Potential_Revenue.png]
+  
 - Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
-  ![Average Discount per Category](Average_Discount_per_Category.png)
+  
 - Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
-  ![Products With Highest Average Ratings](Products_With_Highest_Average_Ratings.png)
+  
 - Average Ratings Across Discount Levels: reveal that higher discounts are linked to slightly lower ratings, helping sellers understand how discounting affects perceived quality.
+  
 - Prodycts With Less Than 1000 Reviews: This highlight items that may need greater promotional support or visibility to build trust and reputation.
+  
 - Total Reviews Per Category: This shows where customer engagement is strongest, helping teams prioritize marketing and customer service efforts.
   
 **Together, these insights provide Amazon sellers and marketing teams with data-driven guidance to enhance product performance, optimize pricing, improve customer satisfaction, and drive engagement.**
+## ✅ Conclusion
+This analysis provided valuable insights into Amazon product performance, customer sentiment, and review trends. By leveraging Excel to explore patterns in pricing, discounts, ratings, and customer engagement, the findings can guide data-driven decisions for product improvement, smarter marketing strategies, and stronger customer relationships. The results highlight the importance of balancing price, quality, and visibility to succeed in a competitive e-commerce environment.
