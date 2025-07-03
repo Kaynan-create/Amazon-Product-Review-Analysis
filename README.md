@@ -11,10 +11,10 @@ The dataset was scrapped from Amazon project pages and it contains:
 Each row represents a unique product with aggregated reviewer data.
 ## Tools & Technologies
  **Microsoft Excel**
-  - Data cleaning (removing duplicates, handling missing values, correcting formats)
+  - Data cleaning (handling missing values, correcting formats)
   - Use of pivot tables for aggregation
   - Calculated columns (e.g., discounted price, total potential revenue, combined score(ratings and ratings count combined))
-  - Charts and graphs for visual analysis (bar charts, pie charts, line graphs)
+  - Charts and graphs for visual analysis (bar charts, column charts)
 ## Key Features
 - Cleaned and prepared raw Amazon product data for analysis
 - Created pivot tables to summarize:
@@ -46,7 +46,7 @@ Each row represents a unique product with aggregated reviewer data.
 
 ## How This Analysis Supports Decision Making
 - Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
-  ![Sum of Total Potential Revenue](Sum_of_Total_Potential_Revenue.png)
+  ![Revenue_Chart/Sum_of_Total_Potential_Revenue.png]
 - Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
   ![Average Discount per Category](Average_Discount_per_Category.png)
 - Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
