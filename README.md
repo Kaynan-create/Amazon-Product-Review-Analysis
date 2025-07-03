@@ -46,9 +46,9 @@ Each row represents a unique product with aggregated reviewer data.
 
 ## How This Analysis Supports Decision Making
 - Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
-  ![Sum of Total Potential Revenue](Amazon visuals/Sum of Total Potential Revenue.png)
+  ![Sum of Total Potential Revenue](Amazon_visuals/Sum_of_Total_Potential_Revenue.png)
 - Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
-  ![Average Discount per Category](Amazon visuals/Average Discount per Category.png)
+  ![Average Discount per Category](Amazon_visuals/Average_Discount_per_Category.png)
 - Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
-  ![Products With Highest Average Ratings](Amazon visuals/Products With Highest Average Ratings.png)
+  ![Products With Highest Average Ratings](Amazon_visuals/Products_With_Highest_Average_Ratings.png)
   
