@@ -46,7 +46,7 @@ Each row represents a unique product with aggregated reviewer data.
 
 ## 📈 How This Analysis Supports Decision Making
 - Total Potential Revenue: This highlights where sellers should focus inventory, product development, and sales efforts.
-
+![Revenue chart](Sum_of_Total_Potential_Revenue.png)
 - Average Discounts Per Category: This provides guidance on pricing strategies to stay competitive without compromising profitability.
   
 - Top Average Ratings: This identifies items that exceed customer expectations, offering a model for future product design and quality standards.
@@ -60,3 +60,6 @@ Each row represents a unique product with aggregated reviewer data.
 **Together, these insights provide Amazon sellers and marketing teams with data-driven guidance to enhance product performance, optimize pricing, improve customer satisfaction, and drive engagement.**
 ## ✅ Conclusion
 This analysis provided valuable insights into Amazon product performance, customer sentiment, and review trends. By leveraging Excel to explore patterns in pricing, discounts, ratings, and customer engagement, the findings can guide data-driven decisions for product improvement, smarter marketing strategies, and stronger customer relationships. The results highlight the importance of balancing price, quality, and visibility to succeed in a competitive e-commerce environment.
+
+*Authored By*: **Canaan Olanipekun**
+*Date*: **June 2025**
