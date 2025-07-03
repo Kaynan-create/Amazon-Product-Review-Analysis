@@ -45,15 +45,15 @@ Each row represents a unique product with aggregated reviewer data.
 - 328 products have lower than 1000 reviews. This indicates that many products have low visibility which in turn presents opportunities for marketing and review generation
 
 ## 📈 How This Analysis Supports Decision Making
-- Total Potential Revenue: This highlight where sellers should focus inventory, product development, and sales efforts.
+- Total Potential Revenue: This highlights where sellers should focus inventory, product development, and sales efforts.
+
+- Average Discounts Per Category: This provides guidance on pricing strategies to stay competitive without compromising profitability.
   
-- Average Discounts Per Category: This provide guidance on pricing strategies to stay competitive without compromising profitability.
+- Top Average Ratings: This identifies items that exceed customer expectations, offering a model for future product design and quality standards.
   
-- Top Average Ratings: This identify items that exceed customer expectations, offering a model for future product design and quality standards.
+- Average Ratings Across Discount Levels: This reveals that higher discounts are linked to slightly lower ratings, helping sellers understand how discounting affects perceived quality.
   
-- Average Ratings Across Discount Levels: reveal that higher discounts are linked to slightly lower ratings, helping sellers understand how discounting affects perceived quality.
-  
-- Prodycts With Less Than 1000 Reviews: This highlight items that may need greater promotional support or visibility to build trust and reputation.
+- Products With Less Than 1000 Reviews: This highlights items that may need greater promotional support or visibility to build trust and reputation.
   
 - Total Reviews Per Category: This shows where customer engagement is strongest, helping teams prioritize marketing and customer service efforts.
   
