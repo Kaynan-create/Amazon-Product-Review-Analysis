@@ -53,12 +53,13 @@ Each row represents a unique product with aggregated reviewer data.
 ![Products With Highest Average Ratings](Products_With_Highest_Average_Ratings.png)
 - **Average Actual Price vs Discounted Price**: This guides more targeted discounting and help balance competitiveness with profitability.
 ![Average Actual vs Discounted Price](Average_Actual_vs_Discounted_Price.png)  
-- Products With Less Than 1000 Reviews: This highlights items that may need greater promotional support or visibility to build trust and reputation.
+- **Products With Less Than 1000 Reviews**: This highlights items that may need greater promotional support or visibility to build trust and reputation.
 
+   ![Products with Less Than 1000 Reviews](Products_with_less_than_1000_reviews.png)
 - **Total Reviews Per Category**: This shows where customer engagement is strongest, helping teams prioritize marketing and customer service efforts.
 ![Total Reviews Per Category](Total_Reviews_Per_Category.png)
 **Together, these insights provide Amazon sellers and marketing teams with data-driven guidance to enhance product performance, optimize pricing, improve customer satisfaction, and drive engagement.**
-## Analytics Dashboard
+## Analytics Dashboard Overview
 ![Amazon Dashboard](Amazon_Dashboard.png)
 ## ✅ Conclusion
 This analysis provided valuable insights into Amazon product performance, customer sentiment, and review trends. By leveraging Excel to explore patterns in pricing, discounts, ratings, and customer engagement, the findings can guide data-driven decisions for product improvement, smarter marketing strategies, and stronger customer relationships. The results highlight the importance of balancing price, quality, and visibility to succeed in a competitive e-commerce environment.
